@@ -2,6 +2,7 @@
  A sort visualization project that shows how the most popular sorting algorithms work.
 # Currently Implemented:
  Bubble sort, insertion sort, selection sort, double selection sort.
+ For the code of all algorithms, see my other project.
 # Note:
  Thread class can be inherited to do the sort in multi-threads. But currently they are done in one thread.
 # ScreenShot:
